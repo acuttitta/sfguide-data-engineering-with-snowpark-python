@@ -15,3 +15,5 @@ COPY environment.yml .
 RUN conda env create \
     && conda init \
     && rm environment.yml
+
+    
