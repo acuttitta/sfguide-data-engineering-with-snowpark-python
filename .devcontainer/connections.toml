@@ -2,10 +2,10 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "fcb79581"
-user = "acuttitta@arizona.edu"
+account = "MYB92220"
+user = "AnthonyT"
 #authenticator = "externalbrowser"
-password = "mypassword"
+password = "Tr1a!123"
 role = "HOL_ROLE"
 warehouse = "HOL_WH"
 database = "HOL_DB"
